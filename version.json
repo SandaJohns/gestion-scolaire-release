@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/SandaJohns/gestion-scolaire-release/releases/download/v1.1.5/Gestion-Scolaire-1.1.5.msi",
-  "sha256": "c01aef763ce8e11a1997c7dcc65a2d6c22dd7507ac14428d4821ccf9aad515e6",
+  "version": "1.1.6",
+  "url": "https://github.com/SandaJohns/gestion-scolaire-release/releases/download/v1.1.6/Gestion-Scolaire-1.1.6.msi",
+  "sha256": "d1a0dc5c6783b794d2409ca85353861ad9f3dd12cdf2c5f64bbb59689f9e0991",
   "notes": "- Corrections et améliorations",
   "date": "2026-06-27"
 }
